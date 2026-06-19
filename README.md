@@ -38,8 +38,8 @@ Projeto de estudo sobre construção de agentes de IA com LangGraph, OpenAI Tool
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/openai-langgraph-example.git
-cd openai-langgraph-example
+git clone https://github.com/PedroHMT/langgraph-langchain-redis-example.git
+cd langgraph-langchain-redis-example
 
 # Criar ambiente virtual
 python -m venv venv
